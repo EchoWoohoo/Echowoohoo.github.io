@@ -1,0 +1,5 @@
+  File "/Users/EchoWu/Desktop/My website/index.css", line 2
+    .post{
+    ^
+SyntaxError: invalid syntax
+>>> 
